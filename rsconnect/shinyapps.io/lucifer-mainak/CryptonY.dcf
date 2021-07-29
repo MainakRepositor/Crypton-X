@@ -1,0 +1,13 @@
+name: CryptonY
+title: CryptonY
+username:
+account: lucifer-mainak
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4436684
+bundleId: 4868667
+url: https://lucifer-mainak.shinyapps.io/CryptonY/
+when: 1627569965.63669
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
