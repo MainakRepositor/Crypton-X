@@ -12,3 +12,9 @@ A Cryptocurrency market cap-price prediction and visualization web application t
 ![s10](https://user-images.githubusercontent.com/64016811/127535577-eb691973-eb40-48cb-a653-67190d2e2d5f.jpg)
 ![s11](https://user-images.githubusercontent.com/64016811/127535581-32313ee5-2b44-49c8-9aa6-8176771e3e3b.jpg)
 
+
+### See it in action:
+
+
+https://user-images.githubusercontent.com/64016811/127763178-7a9be92c-a836-44dd-89e0-78edf8d56498.mp4
+
