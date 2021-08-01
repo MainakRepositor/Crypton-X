@@ -1,5 +1,9 @@
 # Crypton-X
 A Cryptocurrency market cap-price prediction and visualization web application that models, predicts, analyses and visualizes the data. The main idea behind the application is to predict market value of some of the most popular cryptocurrencies using Machine Learning and Deep Learning algorithms. The predicted values are displayed in the same graph that denotes the market cap-price of the currencies along a period of time. Models such as Auto Regressive Integrated Moving Average (ARIMA), KNN, and Deep Belief Nets have been used to predict future prices within a fixed variance range. 
+
+<hr>
+
+### Some Screenshots
 ![s1](https://user-images.githubusercontent.com/64016811/127535537-33b142e1-95d2-4bf4-8e0f-12e9b612fa01.jpg)
 ![s2](https://user-images.githubusercontent.com/64016811/127535544-902ef7a2-8af9-43fb-9b75-c966e376a72c.jpg)
 ![s3](https://user-images.githubusercontent.com/64016811/127535547-d8aaf7f3-967d-407a-bcf3-fbfa1117a83b.jpg)
@@ -12,6 +16,7 @@ A Cryptocurrency market cap-price prediction and visualization web application t
 ![s10](https://user-images.githubusercontent.com/64016811/127535577-eb691973-eb40-48cb-a653-67190d2e2d5f.jpg)
 ![s11](https://user-images.githubusercontent.com/64016811/127535581-32313ee5-2b44-49c8-9aa6-8176771e3e3b.jpg)
 
+<hr>
 
 ### See it in action:
 
